@@ -12,4 +12,4 @@ It is the responsive and Retina ready website build with the following tools:
 
 - RWD.
 
-[Link to live preview](https://markrau73.github.io/Resp_website_bikes/index.html)
+[Link to live preview](https://markrau73.github.io/Logo_website/)
