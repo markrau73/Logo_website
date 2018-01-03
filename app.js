@@ -32,10 +32,10 @@ const button = document.querySelector('.second-container__content__video-social_
      button.addEventListener('click', () =>
      {
        video.play();
-       button.style.display = "none";
+       button.style.visibility = "hidden";
      });
 
-     video.onended = () => button.style.display = "inline-flex";
+     video.onended = () => button.style.visibility = "visible";
 
 // Slider
 
