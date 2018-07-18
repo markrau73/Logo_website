@@ -116,6 +116,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+  margin-top: 20px;
 }
 
 .second-container__content__timer-input__timer p:nth-child(2n+1) {
@@ -124,16 +125,15 @@ body {
   font-size: 36px;
   border: 1.5px solid #7f89f8;
   border-radius: 7%;
-  padding: 10px;
+  padding: 12px 0 12px 0;
   text-align: center;
-  margin-top: 25px;
 }
 
 .second-container__content__timer-input__timer p:nth-child(2n+2) {
   color: #7f89f8;
   font-size: 36px;
   font-weight: bold;
-  margin: 15px;
+
 }
 
 .second-container__content__timer-input__slogan {
