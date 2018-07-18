@@ -1,6 +1,6 @@
 // Timer
 
-const countDownDate = new Date("Apr 01, 2018 00:00:00").getTime();
+const countDownDate = new Date("Dec 31, 2018 00:00:00").getTime();
 
 const x = setInterval(() => {
 
