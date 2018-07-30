@@ -89,3 +89,8 @@ for(let i = 0; i < dots.length; i++){
     dots[1].classList.remove('active');
     dots[2].classList.remove('active');
   });
+
+  var foo = [1, 2, 3, 10];
+
+  console.log(foo.push(20));
+console.log(foo);
